@@ -1,0 +1,15 @@
+How to run the game?
+
+Mac:
+1. open terminal
+2. write: cd /Users/jakobkallestad/UIB/INF100/PokemonGame/
+3. (edit the path so that it corresponds to where you saved the game folder).
+4. If successful, write: java Main
+5. Thats it! You can now play the game!
+
+Pc: 
+1. open cmd
+2. write: cd /Users/jakobkallestad/UIB/INF100/PokemonGame/
+3. (edit the path so that it corresponds to where you saved the game folder).
+4. If successful, write: java Main
+5. Thats it! You can now play the game!

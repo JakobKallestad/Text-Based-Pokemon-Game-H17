@@ -1,0 +1,17 @@
+Name
+Money
+Location
+Number of Pokemons in team followed by “n” lines of “7lines”
+poke ID
+poke level
+poke exp
+poke move1
+poke move2
+poke move3
+poke move4
+(25 lines of a single number holding trainer info)
+bag(x) numberofItems(y)
+bag(x) numberofItems(y)
+bag(x) numberofItems(y)
+bag(x) numberofItems(y)
+(untill end of file)

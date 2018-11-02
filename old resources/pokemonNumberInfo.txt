@@ -1,0 +1,2 @@
+ID Name	Type BaseHP BaseAttack BaseDefense BaseSpeed BaseSpecial CatchRate EffortValue
+001 Bulbasaur Grass 45 49 49 45 65 45 64

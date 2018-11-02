@@ -1,0 +1,714 @@
+Generation 1 - Red, Blue, Yellow
+
+
+#001
+Bulbasaur
+Grass · Poison →
+(Level 16)  
+#002
+Ivysaur
+Grass · Poison →
+(Level 32)  
+#003
+Venusaur
+Grass · Poison
+
+#004
+Charmander
+Fire →
+(Level 16)  
+#005
+Charmeleon
+Fire →
+(Level 36)  
+#006
+Charizard
+Fire · Flying
+
+#007
+Squirtle
+Water →
+(Level 16)  
+#008
+Wartortle
+Water →
+(Level 36)  
+#009
+Blastoise
+Water
+
+#010
+Caterpie
+Bug →
+(Level 7)  
+#011
+Metapod
+Bug →
+(Level 10)  
+#012
+Butterfree
+Bug · Flying
+
+#013
+Weedle
+Bug · Poison →
+(Level 7)  
+#014
+Kakuna
+Bug · Poison →
+(Level 10)  
+#015
+Beedrill
+Bug · Poison
+
+#016
+Pidgey
+Normal · Flying →
+(Level 18)  
+#017
+Pidgeotto
+Normal · Flying →
+(Level 36)  
+#018
+Pidgeot
+Normal · Flying
+
+#019
+Rattata
+Normal →
+(Level 20)  
+#020
+Raticate
+Normal
+
+#021
+Spearow
+Normal · Flying →
+(Level 20)  
+#022
+Fearow
+Normal · Flying
+
+#023
+Ekans
+Poison →
+(Level 22)  
+#024
+Arbok
+Poison
+
+#172
+Pichu
+Electric →
+(Happiness)  
+#025
+Pikachu
+Electric →
+(use Thunderstone)  
+#026
+Raichu
+Electric
+
+#027
+Sandshrew
+Ground →
+(Level 22)  
+#028
+Sandslash
+Ground
+
+#029
+Nidoran♀
+Poison →
+(Level 16)  
+#030
+Nidorina
+Poison →
+(use Moon Stone)  
+#031
+Nidoqueen
+Poison · Ground
+
+#032
+Nidoran♂
+Poison →
+(Level 16)  
+#033
+Nidorino
+Poison →
+(use Moon Stone)  
+#034
+Nidoking
+Poison · Ground
+
+#173
+Cleffa
+Fairy →
+(Happiness)  
+#035
+Clefairy
+Fairy →
+(use Moon Stone)  
+#036
+Clefable
+Fairy
+
+#037
+Vulpix
+Fire →
+(use Fire Stone)  
+#038
+Ninetales
+Fire
+
+#174
+Igglybuff
+Normal · Fairy →
+(Happiness)  
+#039
+Jigglypuff
+Normal · Fairy →
+(use Moon Stone)  
+#040
+Wigglytuff
+Normal · Fairy
+
+#041
+Zubat
+Poison · Flying →
+(Level 22)  
+#042
+Golbat
+Poison · Flying →
+(Happiness)  
+#169
+Crobat
+Poison · Flying
+
+#043
+Oddish
+Grass · Poison →
+(Level 21)  
+#044
+Gloom
+Grass · Poison (use Leaf Stone)
+↗  
+#045
+Vileplume
+Grass · Poison 
+↘
+(use Sun Stone)  
+#182
+Bellossom
+Grass
+
+#046
+Paras
+Bug · Grass →
+(Level 24)  
+#047
+Parasect
+Bug · Grass
+
+#048
+Venonat
+Bug · Poison →
+(Level 31)  
+#049
+Venomoth
+Bug · Poison
+
+#050
+Diglett
+Ground →
+(Level 26)  
+#051
+Dugtrio
+Ground
+
+#052
+Meowth
+Normal →
+(Level 28)  
+#053
+Persian
+Normal
+
+#054
+Psyduck
+Water →
+(Level 33)  
+#055
+Golduck
+Water
+
+#056
+Mankey
+Fighting →
+(Level 28)  
+#057
+Primeape
+Fighting
+
+#058
+Growlithe
+Fire →
+(use Fire Stone)  
+#059
+Arcanine
+Fire
+
+#060
+Poliwag
+Water →
+(Level 25)  
+#061
+Poliwhirl
+Water (use Water Stone)
+↗  
+#062
+Poliwrath
+Water · Fighting 
+↘
+(trade holding
+King's Rock)  
+#186
+Politoed
+Water
+
+#063
+Abra
+Psychic →
+(Level 16)  
+#064
+Kadabra
+Psychic →
+(Trade)  
+#065
+Alakazam
+Psychic
+
+#066
+Machop
+Fighting →
+(Level 28)  
+#067
+Machoke
+Fighting →
+(Trade)  
+#068
+Machamp
+Fighting
+
+#069
+Bellsprout
+Grass · Poison →
+(Level 21)  
+#070
+Weepinbell
+Grass · Poison →
+(use Leaf Stone)  
+#071
+Victreebel
+Grass · Poison
+
+#072
+Tentacool
+Water · Poison →
+(Level 30)  
+#073
+Tentacruel
+Water · Poison
+
+#074
+Geodude
+Rock · Ground →
+(Level 25)  
+#075
+Graveler
+Rock · Ground →
+(Trade)  
+#076
+Golem
+Rock · Ground
+
+#077
+Ponyta
+Fire →
+(Level 40)  
+#078
+Rapidash
+Fire
+
+#079
+Slowpoke
+Water · Psychic (Level 37)
+↗  
+#080
+Slowbro
+Water · Psychic 
+↘
+(trade holding
+King's Rock)  
+#199
+Slowking
+Water · Psychic
+
+#081
+Magnemite
+Electric · Steel →
+(Level 30)  
+#082
+Magneton
+Electric · Steel →
+(in a Magnetic Field area)  
+#462
+Magnezone
+Electric · Steel
+
+#084
+Doduo
+Normal · Flying →
+(Level 31)  
+#085
+Dodrio
+Normal · Flying
+
+#086
+Seel
+Water →
+(Level 34)  
+#087
+Dewgong
+Water · Ice
+
+#088
+Grimer
+Poison →
+(Level 38)  
+#089
+Muk
+Poison
+
+#090
+Shellder
+Water →
+(use Water Stone)  
+#091
+Cloyster
+Water · Ice
+
+#092
+Gastly
+Ghost · Poison →
+(Level 25)  
+#093
+Haunter
+Ghost · Poison →
+(Trade)  
+#094
+Gengar
+Ghost · Poison
+
+#095
+Onix
+Rock · Ground →
+(trade holding
+Metal Coat)  
+#208
+Steelix
+Steel · Ground
+
+#096
+Drowzee
+Psychic →
+(Level 26)  
+#097
+Hypno
+Psychic
+
+#098
+Krabby
+Water →
+(Level 28)  
+#099
+Kingler
+Water
+
+#100
+Voltorb
+Electric →
+(Level 30)  
+#101
+Electrode
+Electric
+
+#102
+Exeggcute
+Grass · Psychic →
+(use Leaf Stone)  
+#103
+Exeggutor
+Grass · Psychic
+
+#104
+Cubone
+Ground →
+(Level 28)  
+#105
+Marowak
+Ground
+
+#236
+Tyrogue
+Fighting (Level 20,
+Attack > Defense)
+↗  
+#106
+Hitmonlee
+Fighting 
+→
+(Level 20,
+Attack < Defense)  
+#107
+Hitmonchan
+Fighting 
+↘
+(Level 20,
+Attack = Defense)  
+#237
+Hitmontop
+Fighting
+
+#108
+Lickitung
+Normal →
+(after Rollout
+learned)  
+#463
+Lickilicky
+Normal
+
+#109
+Koffing
+Poison →
+(Level 35)  
+#110
+Weezing
+Poison
+
+#111
+Rhyhorn
+Ground · Rock →
+(Level 42)  
+#112
+Rhydon
+Ground · Rock →
+(trade holding
+Protector)  
+#464
+Rhyperior
+Ground · Rock
+
+#440
+Happiny
+Normal →
+(hold Oval Stone,
+Daytime)  
+#113
+Chansey
+Normal →
+(Happiness)  
+#242
+Blissey
+Normal
+
+#114
+Tangela
+Grass →
+(after Ancient Power
+learned)  
+#465
+Tangrowth
+Grass
+
+#116
+Horsea
+Water →
+(Level 32)  
+#117
+Seadra
+Water →
+(trade holding
+Dragon Scale)  
+#230
+Kingdra
+Water · Dragon
+
+#118
+Goldeen
+Water →
+(Level 33)  
+#119
+Seaking
+Water
+
+#120
+Staryu
+Water →
+(use Water Stone)  
+#121
+Starmie
+Water · Psychic
+
+#439
+Mime Jr.
+Psychic · Fairy →
+(after Mimic
+learned)  
+#122
+Mr. Mime
+Psychic · Fairy
+
+#123
+Scyther
+Bug · Flying →
+(trade holding
+Metal Coat)  
+#212
+Scizor
+Bug · Steel
+
+#238
+Smoochum
+Ice · Psychic →
+(Level 30)  
+#124
+Jynx
+Ice · Psychic
+
+#239
+Elekid
+Electric →
+(Level 30)  
+#125
+Electabuzz
+Electric →
+(trade holding
+Electrizer)  
+#466
+Electivire
+Electric
+
+#240
+Magby
+Fire →
+(Level 30)  
+#126
+Magmar
+Fire →
+(trade holding
+Magmarizer)  
+#467
+Magmortar
+Fire
+
+#129
+Magikarp
+Water →
+(Level 20)  
+#130
+Gyarados
+Water · Flying
+
+#134
+Vaporeon
+Water (use Water Stone)
+↖  
+
+#135
+Jolteon
+Electric ←
+(use Thunderstone)  
+
+#136
+Flareon
+Fire ↙
+(use Fire Stone)  
+
+#700
+Sylveon
+Fairy ↙
+(2♥ Affection in Pokémon Amie, knowing Fairy move)  
+#133
+Eevee
+Normal (Happiness, Daytime)
+↗  
+#196
+Espeon
+Psychic 
+(Happiness, Nighttime)
+→  
+#197
+Umbreon
+Dark 
+→
+(near a Mossy Rock)  
+#470
+Leafeon
+Grass 
+↘
+(near an Icy Rock)  
+#471
+Glaceon
+Ice
+
+#137
+Porygon
+Normal →
+(trade holding
+Up-Grade)  
+#233
+Porygon2
+Normal →
+(trade holding
+Dubious Disc)  
+#474
+Porygon-Z
+Normal
+
+#138
+Omanyte
+Rock · Water →
+(Level 40)  
+#139
+Omastar
+Rock · Water
+
+#140
+Kabuto
+Rock · Water →
+(Level 40)  
+#141
+Kabutops
+Rock · Water
+
+#446
+Munchlax
+Normal →
+(Happiness)  
+#143
+Snorlax
+Normal
+
+#147
+Dratini
+Dragon →
+(Level 30)  
+#148
+Dragonair
+Dragon →
+(Level 55)  
+#149
+Dragonite
+Dragon · Flying

@@ -1,0 +1,15 @@
+0 PokeBall 200 0 0 1.0 n
+1 GreatBall 600 0 0 1.5 n
+2 UltraBall 1200 0 0 2.0 n
+3 MasterBall 20000 0 0 100.0 n
+4 Potion 300 30 0 0.0 n
+5 SuperPotion 700 50 0 0.0 n
+6 HyperPotion 1200 200 0 0.0 n
+7 FullRestore 3000 999 0 0.0 all
+8 Revive 1500 0 1 0.0 all
+9 Antidote 100 0 0 0.0 Poison
+10 ParlyzHeal 200 0 0 0.0 Paralysis
+11 Awakening 250 0 0 0.0 Sleep
+12 BurnHeal 250 0 0 0.0 Burn
+13 IceHeal 250 0 0 0.0 Frozen
+14 FullHeal 600 0 0 0.0 all
